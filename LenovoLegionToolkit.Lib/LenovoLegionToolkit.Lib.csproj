@@ -12,7 +12,7 @@
 	<ItemGroup>
 		<PackageReference Include="Autofac" Version="8.0.0" />
 		<PackageReference Include="Ben.Demystifier" Version="0.4.1" />
-		<PackageReference Include="CoordinateSharp" Version="2.23.1.1" />
+		<PackageReference Include="CoordinateSharp" Version="2.24.2.1" />
 		<PackageReference Include="ManagedNativeWifi" Version="2.5.0" />
 		<PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
 		<PackageReference Include="Microsoft.Win32.SystemEvents" Version="8.0.0" />
